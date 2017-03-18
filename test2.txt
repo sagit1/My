@@ -1,2 +1,3 @@
 to jest test
-dzisiaj dodajê t¹ zmianê
+dzisiaj dodajÃª tÂ¹ zmianÃª
+druga dzisiejsza zmiana na gaÅ‚Ä™zi develop na zdalnym
