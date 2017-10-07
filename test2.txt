@@ -1,3 +1,0 @@
-to jest test
-dzisiaj dodajê t¹ zmianê
-druga dzisiejsza zmiana na gałęzi develop na zdalnym
